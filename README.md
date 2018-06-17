@@ -24,6 +24,7 @@ Kwetza is written in Python and requires BeautifulSoup which can be installed us
 pip install beautifulsoup4
 ```
 Kwetza requires Apktool to be install and accessible via your PATH. This can be setup using the install instructions located here: https://ibotpeaches.github.io/Apktool/install
+note that: Apktool 2.3.0 is the one tested and working. There is a lot of versions with bugs
 
 # Usage
 
